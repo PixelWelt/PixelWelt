@@ -6,7 +6,7 @@ Current employer: Wibros GmbH and school
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
 
-Design
+**Design**
 
 <p float="left">
   <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Adobe.png" width="150" />
@@ -18,14 +18,14 @@ Design
     <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Scribus.png" width="150" />
 </p>
 
-3D printing
+**3D printing**
 
 <p float="left">
   <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Octoprint.png" width="150" />
   <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Cura.png" width="150" /> 
 </p>
 
-Prototyping
+**Prototyping**
 
 <p float="left">
   <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Arduino.png" width="150" />
@@ -35,7 +35,7 @@ Prototyping
   <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Python.png" width="150" /> 
 </p>
 
-Web
+**Web**
 
 <p float="left">
   <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/CSS.png" width="150" />
@@ -47,7 +47,7 @@ Web
   <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/MySQL.png" width="150" /> 
 </p>
 
-Video Creation
+**Video Creation**
 
 <p float="left">
   <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/YoutubStudio.png" width="150" />
@@ -56,14 +56,14 @@ Video Creation
   <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/kdenLive.png" width="150" /> 
 </p>
 
-Virtualization
+**Virtualization**
 
 <p float="left">
   <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Docker.png" width="150" />
   <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Portainer.png" width="150" /> 
 </p>
 
-Office and Project Managment
+**Office and Project Managment**
 
 <p float="left">
   <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Clickup.png" width="150" />
@@ -76,7 +76,7 @@ Office and Project Managment
   <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Github.png" width="150" /> 
 </p>
 
-IDE
+**IDE**
 
 <p float="left">
   <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/IntelliJ.png" width="150" />
@@ -84,14 +84,14 @@ IDE
   <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/vsCode.png" width="150" />
 </p>
 
-Game Development
+**Game Development**
 
 <p float="left">
   <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Unity.png" width="150" />
   <img src="https://github.com/PixelWelt/PixelWelt/blob/main/img/C%23.png?raw=true" width="150" /> 
 </p>
 
-OS
+**OS**
 
 <p float="left">
   <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Windows.png" width="150" />
@@ -100,7 +100,7 @@ OS
   <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Pop!_OS.png" width="150" /> 
 </p>
 
-Miscellaneous
+**Miscellaneous**
 
 <p float="left">
   <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Lua.png" width="150" />
