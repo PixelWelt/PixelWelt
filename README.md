@@ -75,7 +75,7 @@ Current employer: Wibros GmbH and school
 ###### Game Development
 <p float="left">
   <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Unity.png" width="100" />
-  <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/C#.png" width="100" /> 
+  <img src="https://github.com/PixelWelt/PixelWelt/blob/main/img/C%23.png?raw=true" width="100" /> 
 </p>
 ###### OS
 <p float="left">
