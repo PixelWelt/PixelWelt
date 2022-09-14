@@ -2,7 +2,12 @@
 
 Current employer: Wibros GmbH and school
 
-### Tools I use and Certifications
+#### Stats
+<p float="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PixelWelt&layout=compact"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PixelWelt&show_icons=true&theme=radical"/>
+</p>
+#### Tools I use and Certifications
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
 
@@ -15,7 +20,7 @@ Current employer: Wibros GmbH and school
   <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Gimp.png" width="150" />
   <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Aseprite.png" width="150" />
   <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Blender.png" width="150" />
-    <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Scribus.png" width="150" />
+  <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Scribus.png" width="150" />
 </p>
 
 **3D printing**
