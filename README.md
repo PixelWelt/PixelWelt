@@ -2,10 +2,10 @@
 
 Current employer: Wibros GmbH and school
 
-#####Tools I use and Certifications
+##### Tools I use and Certifications
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
-######Design
+###### Design
 <p float="left">
   <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Adobe.png" width="100" />
   <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Affinity.png" width="100" /> 
@@ -15,12 +15,12 @@ Current employer: Wibros GmbH and school
   <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Blender.png" width="100" />
     <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Scribus.png" width="100" />
 </p>
-######3D printing
+###### 3D printing
 <p float="left">
   <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Octoprint.png" width="100" />
   <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Cura.png" width="100" /> 
 </p>
-######Prototyping
+###### Prototyping
 <p float="left">
   <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Arduino.png" width="100" />
   <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/rpi.png" width="100" /> 
@@ -28,7 +28,7 @@ Current employer: Wibros GmbH and school
   <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/C++.png" width="100" /> 
   <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Python.png" width="100" /> 
 </p>
-######Web
+###### Web
 <p float="left">
   <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/CSS.png" width="100" />
   <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Javascript.png" width="100" /> 
@@ -39,7 +39,7 @@ Current employer: Wibros GmbH and school
   <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/MySQL.png" width="100" /> 
 </p>
 
-######Video Creation
+###### Video Creation
 <p float="left">
   <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/YoutubStudio.png" width="100" />
   <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Audacity.png" width="100" /> 
@@ -47,13 +47,13 @@ Current employer: Wibros GmbH and school
   <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/kdenlive.png" width="100" /> 
 </p>
 
-######Virtualization
+###### Virtualization
 <p float="left">
   <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Docker.png" width="100" />
   <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Portainer.png" width="100" /> 
 </p>
 
-######Office and Project Managment
+###### Office and Project Managment
 <p float="left">
   <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Clickup.png" width="100" />
   <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/GoogleSheets.png" width="100" /> 
@@ -65,26 +65,26 @@ Current employer: Wibros GmbH and school
   <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Github.png" width="100" /> 
 </p>
 
-######IDE
+###### IDE
 <p float="left">
   <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/IntelliJ.png" width="100" />
   <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/vs.png" width="100" /> 
   <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/vsCode.png" width="100" />
 </p>
 
-######Game Development
+###### Game Development
 <p float="left">
   <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Unity.png" width="100" />
   <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/C#.png" width="100" /> 
 </p>
-######OS
+###### OS
 <p float="left">
   <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Windows.png" width="100" />
   <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Ubuntu.png" width="100" /> 
   <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/ChromeOs.png" width="100" /> 
   <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Pop!_OS.png" width="100" /> 
 </p>
-######miscellaneous
+###### Miscellaneous
 <p float="left">
   <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Lua.png" width="100" />
   <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Filezilla.png" width="100" />
