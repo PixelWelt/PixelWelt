@@ -3,10 +3,9 @@
 Current employer: Wibros GmbH and school
 
 #### Stats
-<p float="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PixelWelt&layout=compact"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PixelWelt&show_icons=true&theme=radical"/>
-</p>
+
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PixelWelt&layout=compact"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=PixelWelt&show_icons=true&theme=radical"/>
 #### Tools I use and Certifications
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
