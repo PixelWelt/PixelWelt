@@ -1,4 +1,4 @@
-👋 Hi there, I‘m PixelWelt!
+====== 👋 Hi there, I‘m PixelWelt!
 
 Current employer: Wibros GmbH and school
 
