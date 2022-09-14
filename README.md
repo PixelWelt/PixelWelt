@@ -44,7 +44,7 @@ Current employer: Wibros GmbH and school
   <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/YoutubStudio.png" width="100" />
   <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Audacity.png" width="100" /> 
   <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/OBSStudio.png" width="100" />
-  <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/kdenlive.png" width="100" /> 
+  <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/kdenLive.png" width="100" /> 
 </p>
 
 ###### Virtualization
