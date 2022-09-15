@@ -2,8 +2,8 @@ name: Update badges
 
 on:
   schedule:
-    # Runs at 0am UTC every day
-    - cron: "0 0 * * *"
+    # Runs at 2am UTC
+    - cron: "0 2 * * *"
 jobs:
   update-readme:
     name: Update Readme with badges
@@ -11,3 +11,6 @@ jobs:
     steps:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
+        with:
+          COMMIT_MESSAGE: "Added more Badges"
+          CREDLY_USER: soeren-herrmann
