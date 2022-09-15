@@ -11,6 +11,3 @@ jobs:
     steps:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
-        with:
-          COMMIT_MESSAGE: "Added more Badges"
-          CREDLY_USER: soeren-herrmann
