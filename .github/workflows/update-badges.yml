@@ -8,15 +8,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
         - name: Badges - Readme
-  # You may pin to the exact commit or the version.
-  # uses: pemtajo/badge-readme@3836d7866ca0765b3b4ff8f0f826037657a5f434
           uses: pemtajo/badge-readme@2.3.0
           with:
-           REPOSITORY: PixelWelt/PixelWelt
-           COMMIT_MESSAGE: "Updated README with new badges"
-           CREDLY_USER: soeren-herrmann
-           CREDLY_SORT: RECENT
-           BADGE_SIZE: 110
-           NUMBER_LAST_BADGES: 0
-           GH_API_URL: https://api.github.com
+            REPOSITORY: PixelWelt/PixelWelt
+            COMMIT_MESSAGE: "Updated README with new badges"
+            CREDLY_USER: soeren-herrmann
+            CREDLY_SORT: RECENT
+            BADGE_SIZE: 110
+            NUMBER_LAST_BADGES: 0
+            GH_API_URL: https://api.github.com
 
