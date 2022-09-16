@@ -1,4 +1,4 @@
-# 👋 Hi there, I‘m PixelWelt!
+<img align="center" src="https://github.com/PixelWelt/PixelWelt/blob/main/img/Banner.gif"/>
 
 Current employer: Wibros GmbH
 
