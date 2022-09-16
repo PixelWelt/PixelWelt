@@ -1,4 +1,4 @@
-<img src="https://github.com/PixelWelt/PixelWelt/blob/main/img/Banner.gif"/>
+# 👋 Hi there, I‘m PixelWelt!
 
 Current employer: Wibros GmbH
 
