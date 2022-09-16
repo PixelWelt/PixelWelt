@@ -8,6 +8,24 @@ Current employer: Wibros GmbH
 ## Tools I use and Certifications
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
+**Certifications**
+<p>
+ <ul>
+  <li><a target="_blank" href="https://github.com/PixelWelt/PixelWelt/blob/main/OtherCertifications/aws_Accessibility_Audit.pdf" >AWS Accessibility Audit</a></li>
+  <li><a target="_blank" href="https://github.com/PixelWelt/PixelWelt/blob/main/OtherCertifications/AWS_Application_Services_Overview.pdf">AWS Application Services Overview</a></li> 
+  <li><a target="_blank" href="https://github.com/PixelWelt/PixelWelt/blob/main/OtherCertifications/AWS_Billing_and_Cost_Management.pdf">AWS Billing and Cost Management</a></li> 
+  <li><a href="https://github.com/PixelWelt/PixelWelt/blob/main/OtherCertifications/AWS_Development_Tools_Services_Overview.pdf">AWS Development Tools Services Overview</a></li> 
+  <li><a target="_blank" href="https://github.com/PixelWelt/PixelWelt/blob/main/OtherCertifications/AWS_Messaging_Services_Overview.pdf">AWS Messaging Services Overview</a></li>
+  <li><a target="_blank" href="https://github.com/PixelWelt/PixelWelt/blob/main/OtherCertifications/AWS_Shared_Responsibility_Model.pdf">AWS Shared Responsibility Model</a></li> 
+  <li><a target="_blank" href="https://github.com/PixelWelt/PixelWelt/blob/main/OtherCertifications/Introduction_to_AWS_Service_Catalog.pdf">Introduction to AWS Service
+  Catalog</a></li> 
+  <li><a target="_blank" href="https://www.credly.com/badges/ca273339-0185-4726-8f6d-0138a16b7991/public_url">AWS Cloud Quest: Cloud Practitioner </a></li> 
+  <li><a target="_blank" href="https://www.credly.com/badges/375dd2e2-46bb-48fa-80c7-fdd7a6264354">AWS Educate Getting Started with Storage </a></li> 
+  <li><a target="_blank" href="https://github.com/PixelWelt/PixelWelt/blob/main/OtherCertifications/Blender_Abschlussbescheinigung.pdf">Blender</a></li> 
+  <li><a target="_blank" href="https://github.com/PixelWelt/PixelWelt/blob/main/OtherCertifications/Docker_Abschlussbescheinigung.pdf">Docker</a></li> 
+ </ul>
+ 
+</p>
 
 **Design**
 
