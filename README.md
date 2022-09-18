@@ -1,54 +1,130 @@
-👋 Hi there, I‘m PixelWelt!
+# 👋 Hi there, I‘m PixelWelt!
 
-Current employer: Wibros GmbH and school
+Current employer: Wibros GmbH
 
-###### H6 Tools I use
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=PixelWelt&show_icons=true&theme=radical"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PixelWelt&layout=compact"/>
+
+## Tools I use and Certifications
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
-<img src="https://ibb.co/sQ0mqpP" width="20"/>
-<img src="https://ibb.co/Ykd4HCm" width="20"/>
-<img src="https://ibb.co/2vJQdG0" width="20"/>
-<img src="https://ibb.co/qgM7gP2" width="20"/>
-<img src="https://ibb.co/D82CzhT" width="20"/>
-<img src="https://ibb.co/qCxmxdt" width="20"/>
-<img src="https://ibb.co/cLbbDNn" width="20"/>
-<img src="https://ibb.co/YBQ90LD" width="20"/>
-<img src="https://ibb.co/zrpx6qx" width="20"/>
-<img src="https://ibb.co/89Q4tPX" width="20"/>
-<img src="https://ibb.co/WHXJTRZ" width="20"/>
-<img src="https://ibb.co/p3gsTv3" width="20"/>
-<img src="https://ibb.co/wS4RWsW" width="20"/>
-<img src="https://ibb.co/CsGTZ8w" width="20"/>
-<img src="https://ibb.co/1d2SzGv" width="20"/>
-<img src="https://ibb.co/MCvbqYW" width="20"/>
-<img src="https://ibb.co/zhH9q9v" width="20"/>
-<img src="https://ibb.co/SRJZqt5" width="20"/>
-<img src="https://ibb.co/m6mdnq4" width="20"/>
-<img src="https://ibb.co/jZLRk5n" width="20"/>
-<img src="https://ibb.co/zXT59Pr" width="20"/>
-<img src="https://ibb.co/qCnFHx5" width="20"/>
-<img src="https://ibb.co/g6GZBns" width="20"/>
-<img src="https://ibb.co/hWrnCgD" width="20"/>
-<img src="https://ibb.co/DY7kgGx" width="20"/>
-<img src="https://ibb.co/ydGWC1Y" width="20"/>
-<img src="https://ibb.co/V9x4hPS" width="20"/>
-<img src="https://ibb.co/z6WsDxq" width="20"/>
-<img src="https://ibb.co/vQ4cm8s" width="20"/>
-<img src="https://ibb.co/r3FqV44" width="20"/>
-<img src="https://ibb.co/xqnh13Q" width="20"/>
-<img src="https://ibb.co/bWkwx1q" width="20"/>
-<img src="https://ibb.co/NrfgK3H" width="20"/>
-<img src="https://ibb.co/V93VhC9" width="20"/>
-<img src="https://ibb.co/tzs7tHg" width="20"/>
-<img src="https://ibb.co/MGfCGfj" width="20"/>
-<img src="https://ibb.co/VHp6dNZ" width="20"/>
-<img src="https://ibb.co/r5DkSQq" width="20"/>
-<img src="https://ibb.co/ygZJnyb" width="20"/>
-<img src="https://ibb.co/4MgJj5Y" width="20"/>
-<img src="https://ibb.co/RQ25zd7" width="20"/>
-<img src="https://ibb.co/mcrqTNx" width="20"/>
-<img src="https://ibb.co/VQWVxzm" width="20"/>
-<img src="https://ibb.co/z4N4Wgf" width="20"/>
-<img src="https://ibb.co/rHqbkz9" width="20"/>
-<img src="https://ibb.co/r3XSRXn" width="20"/>
-<img src="https://ibb.co/xjPdjtC" width="20"/>
+**Certifications**
+<p>
+ <ul>
+  <li><a target="_blank" href="https://github.com/PixelWelt/PixelWelt/blob/main/OtherCertifications/aws_Accessibility_Audit.pdf" >AWS Accessibility Audit</a></li>
+  <li><a target="_blank" href="https://github.com/PixelWelt/PixelWelt/blob/main/OtherCertifications/AWS_Application_Services_Overview.pdf">AWS Application Services Overview</a></li> 
+  <li><a target="_blank" href="https://github.com/PixelWelt/PixelWelt/blob/main/OtherCertifications/AWS_Billing_and_Cost_Management.pdf">AWS Billing and Cost Management</a></li> 
+  <li><a href="https://github.com/PixelWelt/PixelWelt/blob/main/OtherCertifications/AWS_Development_Tools_Services_Overview.pdf">AWS Development Tools Services Overview</a></li> 
+  <li><a target="_blank" href="https://github.com/PixelWelt/PixelWelt/blob/main/OtherCertifications/AWS_Messaging_Services_Overview.pdf">AWS Messaging Services Overview</a></li>
+  <li><a target="_blank" href="https://github.com/PixelWelt/PixelWelt/blob/main/OtherCertifications/AWS_Shared_Responsibility_Model.pdf">AWS Shared Responsibility Model</a></li> 
+  <li><a target="_blank" href="https://github.com/PixelWelt/PixelWelt/blob/main/OtherCertifications/Introduction_to_AWS_Service_Catalog.pdf">Introduction to AWS Service
+  Catalog</a></li> 
+  <li><a target="_blank" href="https://www.credly.com/badges/ca273339-0185-4726-8f6d-0138a16b7991/public_url">AWS Cloud Quest: Cloud Practitioner </a></li> 
+  <li><a target="_blank" href="https://www.credly.com/badges/375dd2e2-46bb-48fa-80c7-fdd7a6264354">AWS Educate Getting Started with Storage </a></li> 
+  <li><a target="_blank" href="https://github.com/PixelWelt/PixelWelt/blob/main/OtherCertifications/Blender_Abschlussbescheinigung.pdf">Blender</a></li> 
+  <li><a target="_blank" href="https://github.com/PixelWelt/PixelWelt/blob/main/OtherCertifications/Docker_Abschlussbescheinigung.pdf">Docker</a></li> 
+ </ul>
+ 
+</p>
+
+**Design**
+
+<p float="left">
+  <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Adobe.png" width="150" />
+  <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Affinity.png" width="150" /> 
+  <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Lightroom.png" width="150" />
+  <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Gimp.png" width="150" />
+  <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Aseprite.png" width="150" />
+  <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Blender.png" width="150" />
+  <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Scribus.png" width="150" />
+</p>
+
+**3D printing**
+
+<p float="left">
+  <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Octoprint.png" width="150" />
+  <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Cura.png" width="150" /> 
+</p>
+
+**Prototyping**
+
+<p float="left">
+  <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Arduino.png" width="150" />
+  <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/rpi.png" width="150" /> 
+  <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/C.png" width="150" />
+  <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/C++.png" width="150" /> 
+  <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Python.png" width="150" /> 
+</p>
+
+**Web**
+
+<p float="left">
+  <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/CSS.png" width="150" />
+  <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Javascript.png" width="150" /> 
+  <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/HTML.png" width="150" />
+  <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Wordpress.png" width="150" /> 
+  <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/ovh.png" width="150" /> 
+  <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/php.png" width="150" /> 
+  <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/MySQL.png" width="150" /> 
+</p>
+
+**Video Creation**
+
+<p float="left">
+  <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/YoutubStudio.png" width="150" />
+  <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Audacity.png" width="150" /> 
+  <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/OBSStudio.png" width="150" />
+  <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/kdenLive.png" width="150" /> 
+</p>
+
+**Virtualization**
+
+<p float="left">
+  <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Docker.png" width="150" />
+  <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Portainer.png" width="150" /> 
+</p>
+
+**Office and Project Managment**
+
+<p float="left">
+  <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Clickup.png" width="150" />
+  <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/GoogleSheets.png" width="150" /> 
+  <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Drive.png" width="150" />
+  <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Diagrams.png" width="150" /> 
+  <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Jamboard.png" width="150" />
+  <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Trello.png" width="150" /> 
+  <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Prezi.png" width="150" />
+  <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Github.png" width="150" /> 
+</p>
+
+**IDE**
+
+<p float="left">
+  <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/IntelliJ.png" width="150" />
+  <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/vs.png" width="150" /> 
+  <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/vsCode.png" width="150" />
+</p>
+
+**Game Development**
+
+<p float="left">
+  <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Unity.png" width="150" />
+  <img src="https://github.com/PixelWelt/PixelWelt/blob/main/img/C%23.png?raw=true" width="150" /> 
+</p>
+
+**OS**
+
+<p float="left">
+  <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Windows.png" width="150" />
+  <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Ubuntu.png" width="150" /> 
+  <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/ChromeOs.png" width="150" /> 
+  <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Pop!_OS.png" width="150" /> 
+</p>
+
+**Miscellaneous**
+
+<p float="left">
+  <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Lua.png" width="150" />
+  <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Filezilla.png" width="150" />
+  <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Terminal.png" width="150" /> 
+</p>
