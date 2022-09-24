@@ -25,7 +25,7 @@ Current employer: Wibros GmbH
   <li><a target="_blank" href="https://www.credly.com/badges/375dd2e2-46bb-48fa-80c7-fdd7a6264354">AWS Educate Getting Started with Storage </a></li> 
   <li><a target="_blank" href="https://github.com/PixelWelt/PixelWelt/blob/main/OtherCertifications/Blender_Abschlussbescheinigung.pdf">Blender</a></li> 
   <li><a target="_blank" href="https://github.com/PixelWelt/PixelWelt/blob/main/OtherCertifications/Docker_Abschlussbescheinigung.pdf">Docker</a></li> 
-  <li><a target="_blank" href="https://github.com/PixelWelt/PixelWelt/blob/main/OtherCertifications/AWS/Exam_Readiness:_AWS_Certified_Solutions_Architect_–_Associate.pdf">Exam Readiness: AWS Certified Solutions Architect – Associate</li>
+  <li><a target="_blank" href="https://github.com/PixelWelt/PixelWelt/blob/main/OtherCertifications/AWS/Exam_Readiness:_AWS_Certified_Solutions_Architect_–_Associate.pdf">Exam Readiness: AWS Certified Solutions Architect – Associate</a></li>
  </ul>
  
 </p>
