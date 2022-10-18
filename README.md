@@ -26,6 +26,10 @@ Current employer: Wibros GmbH
   <li><a target="_blank" href="https://github.com/PixelWelt/PixelWelt/blob/main/OtherCertifications/Blender_Abschlussbescheinigung.pdf">Blender</a></li> 
   <li><a target="_blank" href="https://github.com/PixelWelt/PixelWelt/blob/main/OtherCertifications/Docker_Abschlussbescheinigung.pdf">Docker</a></li> 
   <li><a target="_blank" href="https://github.com/PixelWelt/PixelWelt/blob/main/OtherCertifications/AWS/Exam_Readiness:_AWS_Certified_Solutions_Architect_–_Associate.pdf">Exam Readiness: AWS Certified Solutions Architect – Associate</a></li>
+  <li><a target="_blank" href="https://github.com/PixelWelt/PixelWelt/blob/main/OtherCertifications/Codecademy_BlockChain.pdf">Introduction to Blockchain and Crypto Course</a></li>
+  <li><a target="_blank" href="https://github.com/PixelWelt/PixelWelt/blob/main/OtherCertifications/Codecademy_CLI.pdf">Learning the Command Line Course</a></li>
+  <li><a target="_blank" href="https://github.com/PixelWelt/PixelWelt/blob/main/OtherCertifications/Codecademy_Regex.pdf">Learn the Basics of Regular Expressions Course</a></li>
+  <li><a target="_blank" href="https://github.com/PixelWelt/PixelWelt/blob/main/OtherCertifications/Codecademy_bashScripting.pdf">Learn Bash Scripting Course</a></li>
  </ul>
  
 </p>
