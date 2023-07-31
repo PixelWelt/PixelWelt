@@ -7,6 +7,10 @@ on:
         required: true
       COMMIT_MESSAGE:
         required: true
+      logLevel:
+        description: 'Log level'     
+        required: true
+        default: 'warning'
   workflow_call:
     secrets:
       CREDLY_USER:
@@ -21,3 +25,7 @@ jobs:
     steps:
         - name: Badges - Readme
           uses: pemtajo/badge-readme@2.3.0
+          with:
+            GH_TOKEN: ${{ secrets.GH_TOKEN }}
+            BADGE_SIZE: 100
+            NUMBER_LAST_BADGES: 0
