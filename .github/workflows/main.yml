@@ -1,0 +1,19 @@
+on:
+  workflow_dispatch:
+    inputs:
+      CREDLY_USER:
+        required: true
+  workflow_call:
+    secrets:
+      CREDLY_USER:
+        required: true
+  schedule:
+    # Runs at 2am UTC
+    - cron:  '30 5,17 * * *'
+jobs:
+  update-readme:
+    name: Update Readme with badges
+    runs-on: ubuntu-latest
+    steps:
+        - name: Badges - Readme
+          uses: pemtajo/badge-readme@2.3.0
