@@ -3,6 +3,10 @@ on:
     inputs:
       CREDLY_USER:
         required: true
+      NUMBER_LAST_BADGES:
+        required: true
+      COMMIT_MESSAGE:
+        required: true
   workflow_call:
     secrets:
       CREDLY_USER:
