@@ -3,6 +3,10 @@ on:
     secrets:
       CREDLY_USER:
         required: true
+  workflow_dispatch:
+    secrets:
+      CREDLY_USER:
+        required: true
   schedule:
     # Runs at 2am UTC
     - cron: "0 2 * * *"
