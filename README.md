@@ -1,6 +1,6 @@
 # 👋 Hi there, I‘m PixelWelt!
 
-Current employer: Wibros GmbH
+Current employer: Schott AG
 
 ## Tools I use and Certifications
 <!--START_SECTION:badges-->
