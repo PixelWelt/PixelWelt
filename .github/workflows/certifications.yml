@@ -26,6 +26,7 @@ jobs:
               done
               badges=$(cat badges.txt)
               badges=$(printf '%s\n' "$badges" | sed 's/[\/&]/\\&/g')
+              echo "$badges"
               sed -i '/<!-- CERTIFICATIONS -->/,/<!-- END CERTIFICATIONS -->/c\<!-- CERTIFICATIONS -->\n'"$badges"'\n<!-- END CERTIFICATIONS -->' README.md
 
           - name: Commit changes
