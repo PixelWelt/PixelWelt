@@ -20,14 +20,14 @@ jobs:
 
           - name: Generate badges
             run: |
-              for cert in OtherCertifications/*; do
-                cert_name=$(basename "$cert" | sed 's/_/ /g')
-                echo "![Certification](https://img.shields.io/badge/Certification-$cert_name-brightgreen)" >> badges.txt
-              done
-              badges=$(cat badges.txt)
-              badges=$(printf '%s\n' "$badges" | sed 's/[\/&]/\\&/g')
-              echo "$badges"
-              sed -i '/<!-- CERTIFICATIONS -->/,/<!-- END CERTIFICATIONS -->/c\<!-- CERTIFICATIONS -->\n'"$badges"'\n<!-- END CERTIFICATIONS -->' README.md
+                # Clear existing certifications
+                sed -i '/<!-- CERTIFICATIONS -->/,/<!-- END CERTIFICATIONS -->/d' README.md
+
+                # Generate new badges and insert them
+                for cert in OtherCertifications/*; do
+                  cert_name=$(basename "$cert" | sed 's/_/ /g')
+                  sed -i "/<!-- CERTIFICATIONS -->/a ![Certification](https://img.shields.io/badge/Certification-$cert_name-brightgreen)" README.md
+                done
 
           - name: Commit changes
             run: |
