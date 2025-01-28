@@ -13,6 +13,7 @@ Current employer: Schott AG
 <!--END_SECTION:badges-->
 **Certifications**
 <!-- CERTIFICATIONS -->
+
 <!-- END CERTIFICATIONS -->
 **Design**
 
