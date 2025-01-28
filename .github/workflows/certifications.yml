@@ -27,7 +27,7 @@ jobs:
               # Generate new badges and insert them
                 while IFS= read -r cert; do
                 echo "![Certification](https://img.shields.io/badge/Certification-$cert-brightgreen)"
-                sed -i "/<!-- CERTIFICATIONS -->/i ![Certification](https://img.shields.io/badge/Certification-$cert-brightgreen)" README.md
+                sed -i '/<!-- CERTIFICATIONS -->/a ![Certification](https://img.shields.io/badge/Certification-$cert-brightgreen)' README.md
                 done < certifications.txt
                 
 
@@ -35,6 +35,6 @@ jobs:
             run: |
               git config --global user.name 'github-actions[bot]'
               git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-              git add .
+              git add README.md
               git commit -m 'Update certifications in README'
               git push origin main
