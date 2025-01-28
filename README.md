@@ -12,8 +12,6 @@ Current employer: Schott AG
 [![AWS Cloud Quest: Cloud Practitioner](https://images.credly.com/size/100x100/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png)](http://www.credly.com/badges/ca273339-0185-4726-8f6d-0138a16b7991 "AWS Cloud Quest: Cloud Practitioner")
 <!--END_SECTION:badges-->
 **Certifications**
-<!-- CERTIFICATIONS -->
-<!-- END CERTIFICATIONS -->
 **Design**
 <!-- Design -->
 <!-- END DESIGN -->
