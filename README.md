@@ -16,23 +16,8 @@ Current employer: Schott AG
 
 <!-- END CERTIFICATIONS -->
 **Design**
-
-<p float="left">
-  <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Adobe.png" width="150" />
-  <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Affinity.png" width="150" /> 
-  <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Lightroom.png" width="150" />
-  <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Gimp.png" width="150" />
-  <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Aseprite.png" width="150" />
-  <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Blender.png" width="150" />
-  <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Scribus.png" width="150" />
-</p>
-
-**3D printing**
-
-<p float="left">
-  <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Octoprint.png" width="150" />
-  <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Cura.png" width="150" /> 
-</p>
+<!-- Design -->
+<!-- END DESIGN -->
 
 **Prototyping**
 

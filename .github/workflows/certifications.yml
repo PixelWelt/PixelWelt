@@ -25,8 +25,9 @@ jobs:
 
                 # Generate new badges and insert them
                 for cert in OtherCertifications/*; do
+                  echo "![Certification](https://img.shields.io/badge/Certification-$cert_name-brightgreen)"
                   cert_name=$(basename "$cert" | sed 's/_/ /g')
-                  sed -i "/<!-- CERTIFICATIONS -->/a ![Certification](https://img.shields.io/badge/Certification-$cert_name-brightgreen)" README.md
+                  sed -i "/<!-- CERTIFICATIONS -->/i ![Certification](https://img.shields.io/badge/Certification-$cert_name-brightgreen)" README.md
                 done
 
           - name: Commit changes
