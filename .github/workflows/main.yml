@@ -1,0 +1,11 @@
+name: Main workflow
+
+on: 
+    push:
+        branches:
+            - main
+jobs:
+    call-credly:
+        uses: ./.github/workflows/badges.yml
+    call-certifications:
+        uses: ./.github/workflows/certifications.yml
