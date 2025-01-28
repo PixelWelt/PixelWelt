@@ -2,12 +2,12 @@ name: Update certifications
 
 on:
     workflow_run:
-        workflows: ["Update badges"]
+        workflows: ["Update badges", "update-readme"]
         types:
           - completed
     
 jobs:
-    update-readme:
+    update-readme-certifications:
         name: Update certifications
         runs-on: ubuntu-latest
         steps:
