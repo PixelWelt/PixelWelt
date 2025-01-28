@@ -21,17 +21,15 @@ jobs:
               sed -i 's/.pdf//g' certifications.txt
               sed -i '1d' certifications.txt
               cat certifications.txt
+              # Clear existing certifications
+              sed -i '/<!-- CERTIFICATIONS -->/,/<!-- END CERTIFICATIONS -->/d' README.md
 
-          - name: Generate badges
-            run: |
-                # Clear existing certifications
-                sed -i '/<!-- CERTIFICATIONS -->/,/<!-- END CERTIFICATIONS -->/d' README.md
-
-                # Generate new badges and insert them
-                for cert in OtherCertifications/*; do
-                  echo "![Certification](https://img.shields.io/badge/Certification-$cert_name-brightgreen)"
-                  sed -i "/<!-- CERTIFICATIONS -->/i ![Certification](https://img.shields.io/badge/Certification-$cert_name-brightgreen)" README.md
-                done
+              # Generate new badges and insert them
+                while IFS= read -r cert; do
+                echo "![Certification](https://img.shields.io/badge/Certification-$cert-brightgreen)"
+                sed -i "/<!-- CERTIFICATIONS -->/i ![Certification](https://img.shields.io/badge/Certification-$cert-brightgreen)" README.md
+                done < certifications.txt
+                
 
           - name: Commit changes
             run: |
