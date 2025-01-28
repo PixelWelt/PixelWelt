@@ -16,3 +16,4 @@ jobs:
         uses: pemtajo/badge-readme@main
         with:       
           CREDLY_USER: soeren-herrmann
+          BADGE_SIZE: 110
