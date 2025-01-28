@@ -1,0 +1,9 @@
+name: Update tools
+
+on:
+    workflow_call:
+
+jobs:
+  name: dummy step
+  run: |
+    echo "This is a dummy step"
