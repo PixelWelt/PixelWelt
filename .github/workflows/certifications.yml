@@ -20,6 +20,7 @@ jobs:
               sed -i 's/ /__/g' certifications.txt
               sed -i 's/.pdf//g' certifications.txt
               sed -i '1d' certifications.txt
+              cat certifications.txt
 
           - name: Generate badges
             run: |
