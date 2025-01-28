@@ -13,6 +13,21 @@ Current employer: Schott AG
 <!--END_SECTION:badges-->
 **Certifications**
 <!-- CERTIFICATIONS -->
+![Certification](https://img.shields.io/badge/Certification-$cert-brightgreen)
+![Certification](https://img.shields.io/badge/Certification-$cert-brightgreen)
+![Certification](https://img.shields.io/badge/Certification-$cert-brightgreen)
+![Certification](https://img.shields.io/badge/Certification-$cert-brightgreen)
+![Certification](https://img.shields.io/badge/Certification-$cert-brightgreen)
+![Certification](https://img.shields.io/badge/Certification-$cert-brightgreen)
+![Certification](https://img.shields.io/badge/Certification-$cert-brightgreen)
+![Certification](https://img.shields.io/badge/Certification-$cert-brightgreen)
+![Certification](https://img.shields.io/badge/Certification-$cert-brightgreen)
+![Certification](https://img.shields.io/badge/Certification-$cert-brightgreen)
+![Certification](https://img.shields.io/badge/Certification-$cert-brightgreen)
+![Certification](https://img.shields.io/badge/Certification-$cert-brightgreen)
+![Certification](https://img.shields.io/badge/Certification-$cert-brightgreen)
+![Certification](https://img.shields.io/badge/Certification-$cert-brightgreen)
+![Certification](https://img.shields.io/badge/Certification-$cert-brightgreen)
 <!-- END CERTIFICATIONS -->
 **Design**
 <!-- Design -->
