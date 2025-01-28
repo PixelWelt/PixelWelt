@@ -1,0 +1,28 @@
+name: Update certifications
+
+on:
+    push:
+        branches:
+            - main
+
+jobs:
+    update-readme:
+        runs-on: ubuntu-latest
+        steps:
+          - name: Checkout repository
+            uses: actions/checkout@v2
+
+          - name: List certification files
+            run: |
+              ls OtherCertifications > certifications.txt
+
+          - name: Generate badges
+            run: |
+              for cert in OtherCertifications/*; do
+                cert_name=$(basename "$cert" | sed 's/_/ /g')
+                echo "![Certification](https://img.shields.io/badge/Certification-$cert_name-brightgreen)" >> badges.txt
+              done
+
+          - name: Update README
+            run: |
+              sed -i '/<!-- CERTIFICATIONS -->/,/<!-- END CERTIFICATIONS -->/d' README.md

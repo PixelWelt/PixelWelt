@@ -12,31 +12,8 @@ Current employer: Schott AG
 [![AWS Cloud Quest: Cloud Practitioner](https://images.credly.com/size/50x50/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png)](http://www.credly.com/badges/ca273339-0185-4726-8f6d-0138a16b7991 "AWS Cloud Quest: Cloud Practitioner")
 <!--END_SECTION:badges-->
 **Certifications**
-<p>
- <ul>
-  <li><a target="_blank" href="https://github.com/PixelWelt/PixelWelt/blob/main/OtherCertifications/AWS/aws_Accessibility_Audit.pdf" >AWS Accessibility Audit</a></li>
-  <li><a target="_blank" href="https://github.com/PixelWelt/PixelWelt/blob/main/OtherCertifications/AWS/AWS_Application_Services_Overview.pdf">AWS Application Services Overview</a></li> 
-  <li><a target="_blank" href="https://github.com/PixelWelt/PixelWelt/blob/main/OtherCertifications/AWS/AWS_Billing_and_Cost_Management.pdf">AWS Billing and Cost Management</a></li> 
-  <li><a target="_blank" href="https://github.com/PixelWelt/PixelWelt/blob/main/OtherCertifications/AWS/AWS_Development_Tools_Services_Overview.pdf">AWS Development Tools Services Overview</a></li> 
-  <li><a target="_blank" href="https://github.com/PixelWelt/PixelWelt/blob/main/OtherCertifications/AWS/AWS_Messaging_Services_Overview.pdf">AWS Messaging Services Overview</a></li>
-  <li><a target="_blank" href="https://github.com/PixelWelt/PixelWelt/blob/main/OtherCertifications/AWS/AWS_Shared_Responsibility_Model.pdf">AWS Shared Responsibility Model</a></li> 
-  <li><a target="_blank" href="https://github.com/PixelWelt/PixelWelt/blob/main/OtherCertifications/AWS/Introduction_to_AWS_Service_Catalog.pdf">Introduction to AWS Service
-  Catalog</a></li> 
-  <li><a target="_blank" href="https://github.com/PixelWelt/PixelWelt/blob/main/OtherCertifications/AWS/Introduction_to_AWS_Organizations.pdf">Introduction to AWS Organizations </a></li> 
-  <li><a target="_blank" href="https://github.com/PixelWelt/PixelWelt/blob/main/OtherCertifications/AWS/AWS_Well_Architected.pdf">AWS Well Architected</a></li> 
-  <li><a target="_blank" href="https://www.credly.com/badges/ca273339-0185-4726-8f6d-0138a16b7991/public_url">AWS Cloud Quest: Cloud Practitioner </a></li> 
-  <li><a target="_blank" href="https://www.credly.com/badges/375dd2e2-46bb-48fa-80c7-fdd7a6264354">AWS Educate Getting Started with Storage </a></li> 
-  <li><a target="_blank" href="https://github.com/PixelWelt/PixelWelt/blob/main/OtherCertifications/Blender_Abschlussbescheinigung.pdf">Blender</a></li> 
-  <li><a target="_blank" href="https://github.com/PixelWelt/PixelWelt/blob/main/OtherCertifications/Docker_Abschlussbescheinigung.pdf">Docker</a></li> 
-  <li><a target="_blank" href="https://github.com/PixelWelt/PixelWelt/blob/main/OtherCertifications/AWS/Exam_Readiness:_AWS_Certified_Solutions_Architect_–_Associate.pdf">Exam Readiness: AWS Certified Solutions Architect – Associate</a></li>
-  <li><a target="_blank" href="https://github.com/PixelWelt/PixelWelt/blob/main/OtherCertifications/Codecademy_BlockChain.pdf">Introduction to Blockchain and Crypto Course</a></li>
-  <li><a target="_blank" href="https://github.com/PixelWelt/PixelWelt/blob/main/OtherCertifications/Codecademy_CLI.pdf">Learning the Command Line Course</a></li>
-  <li><a target="_blank" href="https://github.com/PixelWelt/PixelWelt/blob/main/OtherCertifications/Codecademy_Regex.pdf">Learn the Basics of Regular Expressions Course</a></li>
-  <li><a target="_blank" href="https://github.com/PixelWelt/PixelWelt/blob/main/OtherCertifications/Codecademy_bashScripting.pdf">Learn Bash Scripting Course</a></li>
- </ul>
- 
-</p>
-
+<!-- CERTIFICATIONS -->
+<!-- END CERTIFICATIONS -->
 **Design**
 
 <p float="left">
