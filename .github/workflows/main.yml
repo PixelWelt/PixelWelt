@@ -8,4 +8,5 @@ jobs:
     call-credly:
         uses: ./.github/workflows/badges.yml
     call-certifications:
+        needs: call-credly
         uses: ./.github/workflows/certifications.yml
