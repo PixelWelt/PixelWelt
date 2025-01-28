@@ -22,7 +22,7 @@ jobs:
               sed -i '1d' certifications.txt
               cat certifications.txt
               # Clear existing certifications
-              sed -i '/<!-- CERTIFICATIONS -->/,/<!-- END CERTIFICATIONS -->/d' README.md
+              sed -i '/<!-- CERTIFICATIONS -->/,/<!-- END CERTIFICATIONS -->/{/<!-- CERTIFICATIONS -->/!{/<!-- END CERTIFICATIONS -->/!d}}' README.md
 
               # Generate new badges and insert them
                 while IFS= read -r cert; do
