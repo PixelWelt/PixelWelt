@@ -10,6 +10,9 @@ jobs:
         steps:
           - name: Checkout repository
             uses: actions/checkout@v2
+          
+          - name: Pull latest changes
+            run: git pull origin main
 
           - name: List certification files
             run: |
