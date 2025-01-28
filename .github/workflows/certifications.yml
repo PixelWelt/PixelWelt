@@ -25,10 +25,10 @@ jobs:
               sed -i '/<!-- CERTIFICATIONS -->/,/<!-- END CERTIFICATIONS -->/{/<!-- CERTIFICATIONS -->/!{/<!-- END CERTIFICATIONS -->/!d}}' README.md
 
               # Generate new badges and insert them
-                while IFS= read -r cert; do
+              while IFS= read -r cert; do
                 echo "![Certification](https://img.shields.io/badge/Certification-$cert-brightgreen)"
-                sed -i '/<!-- CERTIFICATIONS -->/a ![Certification](https://img.shields.io/badge/Certification-$cert-brightgreen)' README.md
-                done < certifications.txt
+                sed -i "/<!-- CERTIFICATIONS -->/a ![Certification](https://img.shields.io/badge/Certification-$cert-brightgreen)" README.md
+              done < certifications.txt
                 
 
           - name: Commit changes
