@@ -22,6 +22,7 @@ jobs:
                 cert_name=$(basename "$cert" | sed 's/_/ /g')
                 echo "![Certification](https://img.shields.io/badge/Certification-$cert_name-brightgreen)" >> badges.txt
               done
+              cat badges.txt >> README.md
 
           - name: Update README
             run: |
