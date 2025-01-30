@@ -5,10 +5,7 @@ Current employer: Schott AG
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=PixelWelt&show_icons=true&theme=highcontrast" />
 </a>
-<br>
-
-
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/anuraghazra/convoychat" style="margin-top:10px;">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PixelWelt&layout=compact&card_width=320&theme=highcontrast" />
 </a>
 
