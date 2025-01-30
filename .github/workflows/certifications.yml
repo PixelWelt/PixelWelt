@@ -14,7 +14,7 @@ jobs:
           - name: Pull latest changes
             run: git pull origin main
 
-          - name: List certification files
+          - name: update certs
             run: |
               ls OtherCertifications > certifications.txt
               sed -i 's/ /__/g' certifications.txt

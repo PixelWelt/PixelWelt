@@ -1,0 +1,50 @@
+name: Update design tools
+
+on:
+    workflow_call:
+
+jobs: 
+    update-design-tools:
+        name: Update design tools
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout repository
+              uses: actions/checkout@v2
+            
+            - name: Pull latest changes
+              run: git pull origin main
+
+            - name: update certs
+              run: |
+                # Add your update certs commands here
+
+            - name: Read design_tools.csv and generate badge
+              run: |
+                python3 -c "
+                import csv
+                import re
+
+                # Read the CSV file
+                with open('design_tools.csv', mode='r') as file:
+                    csv_reader = csv.DictReader(file)
+                    badges = []
+                    for row in csv_reader:
+                        tool_name = row['name']
+                        tool_color = row['color']
+                        label_color = row['label_color']
+                        logo_slug = row['logo_slug']
+                        # Generate badge URL
+                        badge_url = f'https://img.shields.io/badge/{tool_name}-{tool_color}?style=flat&logo={logo_slug}&labelColor={label_color}'
+                        badges.append(f'![{tool_name} Badge]({badge_url})')
+
+                # Read the README.md file
+                with open('README.md', 'r') as readme:
+                    content = readme.read()
+
+                # Remove everything between <!-- Design --> and <!-- END DESIGN -->
+                content = re.sub(r'<!-- Design -->.*<!-- END DESIGN -->', '<!-- Design -->\n' + '\n'.join(badges) + '\n<!-- END DESIGN -->', content, flags=re.DOTALL)
+
+                # Write the updated content back to README.md
+                with open('README.md', 'w') as readme:
+                    readme.write(content)
+                "
