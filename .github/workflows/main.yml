@@ -10,3 +10,6 @@ jobs:
     call-certifications:
         needs: call-credly
         uses: ./.github/workflows/certifications.yml
+    call-design-tools:
+        needs: call-credly
+        uses: ./.github/workflows/design-tools.yml
