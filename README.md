@@ -86,7 +86,6 @@ Current employer: Schott AG
   <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/GoogleSheets.png" width="150" /> 
   <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Drive.png" width="150" />
   <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Diagrams.png" width="150" /> 
-  <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Jamboard.png" width="150" />
   <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Trello.png" width="150" /> 
   <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Prezi.png" width="150" />
   <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Github.png" width="150" /> 
