@@ -36,14 +36,14 @@ jobs:
                         # Generate badge URL
                         badge_url = f'https://img.shields.io/badge/{tool_name}-{tool_color}?style=flat&logo={logo_slug}&labelColor={label_color}'
                         badges.append(f'![{tool_name} Badge]({badge_url})')
-
+                print(badges)
                 # Read the README.md file
                 with open('README.md', 'r') as readme:
                     content = readme.read()
 
                 # Remove everything between <!-- Design --> and <!-- END DESIGN -->
                 content = re.sub(r'<!-- Design -->.*<!-- END DESIGN -->', '<!-- Design -->\n' + '\n'.join(badges) + '\n<!-- END DESIGN -->', content, flags=re.DOTALL)
-
+                print(content)
                 # Write the updated content back to README.md
                 with open('README.md', 'w') as readme:
                     readme.write(content)

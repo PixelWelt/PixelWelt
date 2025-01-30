@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 # 👋 Hi there, I‘m PixelWelt!
 
 Current employer: Schott AG

@@ -27,7 +27,7 @@ jobs:
               # Generate new badges and insert them
               while IFS= read -r cert; do
                 echo "![Certification](https://img.shields.io/badge/Certification-$cert-brightgreen)"
-                sed -i "/<!-- CERTIFICATIONS -->/a ![Certification](https://img.shields.io/badge/Certification-$cert-brightgreen<br>" README.md
+                sed -i "/<!-- CERTIFICATIONS -->/a ![Certification](https://img.shields.io/badge/Certification-$cert-brightgreen <br>" README.md
               done < certifications.txt
                 
 
