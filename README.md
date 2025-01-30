@@ -1,7 +1,13 @@
 # 👋 Hi there, I‘m PixelWelt!
 
 Current employer: Schott AG
-
+## Stats
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=PixelWelt&show_icons=true&theme=highcontrast" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PixelWelt&layout=compact&card_width=320" />
+</a>
 ## Tools I use and Certifications
 <!--START_SECTION:badges-->
 [![AWS Educate Getting Started with Databases](https://images.credly.com/size/100x100/images/6f135924-7645-4bd2-ab68-3bc0b49c7e27/image.png)](http://www.credly.com/badges/0723ccd0-bd57-402f-bcdf-fc9f8fccd5c8 "AWS Educate Getting Started with Databases")
