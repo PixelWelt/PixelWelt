@@ -25,7 +25,7 @@ jobs:
                 import re
 
                 # Read the CSV file
-                with open('design_tools.csv', mode='r') as file:
+                with open('Tools/design_tools.csv', mode='r') as file:
                     csv_reader = csv.DictReader(file)
                     badges = []
                     for row in csv_reader:
