@@ -38,7 +38,7 @@ Current employer: Schott AG
 ![Blender Badge](https://img.shields.io/badge/Blender-F4792A?style=flat&logo=blender&labelColor=white)
 ![Lightroom Badge](https://img.shields.io/badge/Lightroom-2EA8FF?style=flat&logo=lightroom&labelColor=white)
 ![Photoshop Badge](https://img.shields.io/badge/Photoshop-2EA8FF?style=flat&logo=photoshop&labelColor=white)
-![Affinity__Photo Badge](https://img.shields.io/badge/Affinity__Photo-7D4DD2?style=flat&logo=affinity-photo&labelColor=428DC3)
+![Affinity__Photo Badge](https://img.shields.io/badge/Affinity__Photo-000000?style=flat&logo=affinity-photo&labelColor=7D4DD2)
 <!-- END DESIGN -->
 
 **Prototyping**
