@@ -13,21 +13,21 @@ Current employer: Schott AG
 <!--END_SECTION:badges-->
 **Certifications**
 <!-- CERTIFICATIONS -->
-![Certification](https://img.shields.io/badge/Certification-aws_Accessibility_Audit-brightgreen)
-![Certification](https://img.shields.io/badge/Certification-Introduction_to_AWS_Service_Catalog-brightgreen)
-![Certification](https://img.shields.io/badge/Certification-Introduction_to_AWS_Organizations-brightgreen)
-![Certification](https://img.shields.io/badge/Certification-Exam_Readiness_AWS_Certified_Solutions_Architect_Associate-brightgreen)
-![Certification](https://img.shields.io/badge/Certification-Docker_Abschlussbescheinigung-brightgreen)
-![Certification](https://img.shields.io/badge/Certification-Codecademy_bash_Scripting-brightgreen)
-![Certification](https://img.shields.io/badge/Certification-Codecademy_Regex-brightgreen)
-![Certification](https://img.shields.io/badge/Certification-Codecademy_CLI-brightgreen)
-![Certification](https://img.shields.io/badge/Certification-Codecademy_BlockChain-brightgreen)
-![Certification](https://img.shields.io/badge/Certification-Blender-brightgreen)
-![Certification](https://img.shields.io/badge/Certification-AWS_Well_Architected-brightgreen)
-![Certification](https://img.shields.io/badge/Certification-AWS_Shared_Responsibility_Model-brightgreen)
-![Certification](https://img.shields.io/badge/Certification-AWS_Messaging_Services_Overview-brightgreen)
-![Certification](https://img.shields.io/badge/Certification-AWS_Development_Tools_Services_Overview-brightgreen)
-![Certification](https://img.shields.io/badge/Certification-AWS_Billing_and_Cost_Management-brightgreen)
+![Certification](https://img.shields.io/badge/Certification-aws_Accessibility_Audit-brightgreen<br>
+![Certification](https://img.shields.io/badge/Certification-Introduction_to_AWS_Service_Catalog-brightgreen<br>
+![Certification](https://img.shields.io/badge/Certification-Introduction_to_AWS_Organizations-brightgreen<br>
+![Certification](https://img.shields.io/badge/Certification-Exam_Readiness_AWS_Certified_Solutions_Architect_Associate-brightgreen<br>
+![Certification](https://img.shields.io/badge/Certification-Docker_Abschlussbescheinigung-brightgreen<br>
+![Certification](https://img.shields.io/badge/Certification-Codecademy_bash_Scripting-brightgreen<br>
+![Certification](https://img.shields.io/badge/Certification-Codecademy_Regex-brightgreen<br>
+![Certification](https://img.shields.io/badge/Certification-Codecademy_CLI-brightgreen<br>
+![Certification](https://img.shields.io/badge/Certification-Codecademy_BlockChain-brightgreen<br>
+![Certification](https://img.shields.io/badge/Certification-Blender-brightgreen<br>
+![Certification](https://img.shields.io/badge/Certification-AWS_Well_Architected-brightgreen<br>
+![Certification](https://img.shields.io/badge/Certification-AWS_Shared_Responsibility_Model-brightgreen<br>
+![Certification](https://img.shields.io/badge/Certification-AWS_Messaging_Services_Overview-brightgreen<br>
+![Certification](https://img.shields.io/badge/Certification-AWS_Development_Tools_Services_Overview-brightgreen<br>
+![Certification](https://img.shields.io/badge/Certification-AWS_Billing_and_Cost_Management-brightgreen<br>
 <!-- END CERTIFICATIONS -->
 **Design**
 <!-- Design -->
