@@ -31,6 +31,14 @@ Current employer: Schott AG
 <!-- END CERTIFICATIONS -->
 **Design**
 <!-- Design -->
+![Canva Badge](https://img.shields.io/badge/Canva-534CEA?style=flat&logo=canva&labelColor=428DC3)
+![Gimp Badge](https://img.shields.io/badge/Gimp-595342?style=flat&logo=gimp&labelColor=595342)
+![Scribus Badge](https://img.shields.io/badge/Scribus-428DC3?style=flat&logo=scribus&labelColor=428DC3)
+![Aseprite Badge](https://img.shields.io/badge/Aseprite-A6B4BD?style=flat&logo=aseprite&labelColor=white)
+![Blender Badge](https://img.shields.io/badge/Blender-F4792A?style=flat&logo=blender&labelColor=white)
+![Lightroom Badge](https://img.shields.io/badge/Lightroom-2EA8FF?style=flat&logo=lightroom&labelColor=white)
+![Photoshop Badge](https://img.shields.io/badge/Photoshop-2EA8FF?style=flat&logo=photoshop&labelColor=white)
+![Affinity Photo Badge](https://img.shields.io/badge/Affinity Photo-7D4DD2?style=flat&logo=affinity-photo&labelColor=428DC3)
 <!-- END DESIGN -->
 
 **Prototyping**
