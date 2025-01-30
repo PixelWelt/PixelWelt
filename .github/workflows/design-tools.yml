@@ -14,11 +14,7 @@ jobs:
             - name: Pull latest changes
               run: git pull origin main
 
-            - name: update certs
-              run: |
-                # Add your update certs commands here
-
-            - name: Read design_tools.csv and generate badge
+            - name: Read design_tools.csv and generate badges
               run: |
                 python3 -c "
                 import csv
