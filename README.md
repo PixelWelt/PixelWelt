@@ -115,4 +115,3 @@ Current employer: Schott AG
   <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Filezilla.png" width="150" />
   <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Terminal.png" width="150" /> 
 </p>
->>>>>>> Stashed changes
