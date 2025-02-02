@@ -49,14 +49,8 @@ Current employer: Schott AG
 <!-- END DESIGN -->
 
 **Prototyping**
-
-<p float="left">
-  <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Arduino.png" width="150" />
-  <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/rpi.png" width="150" /> 
-  <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/C.png" width="150" />
-  <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/C++.png" width="150" /> 
-  <img src="https://raw.github.com/PixelWelt/PixelWelt/main/img/Python.png" width="150" /> 
-</p>
+<!-- Prototyping -->
+<!-- END Prototyping -->
 
 **Web**
 

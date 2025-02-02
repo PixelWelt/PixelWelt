@@ -12,4 +12,4 @@ jobs:
         uses: ./.github/workflows/certifications.yml
     call-design-tools:
         needs: call-certifications
-        uses: ./.github/workflows/design-tools.yml
+        uses: ./.github/workflows/tools.yml
