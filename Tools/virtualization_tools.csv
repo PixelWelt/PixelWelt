@@ -1,5 +1,5 @@
 name,color,label_color,logo_slug
 docker,428DC3,white,docker
-docker-compose,428DC3,white,docker
+docker--compose,428DC3,white,docker
 Portainer,428DC3,white,portainer
 Proxmox,428DC3,white,proxmox
