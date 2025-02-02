@@ -68,9 +68,9 @@ Current employer: Schott AG
 
 **Video Creation**
 <!-- Video -->
-![AudaCity Badge](https://img.shields.io/badge/AudaCity-428DC3?style=flat&logo=audacity&labelColor=428DC3)
-![OBS_Studio Badge](https://img.shields.io/badge/OBS_Studio-534CEA?style=flat&logo=obs-studio&labelColor=white)
-![kdenlive Badge](https://img.shields.io/badge/kdenlive-white?style=flat&logo=kdenlive&labelColor=428DC3)
+![Audacity Badge](https://img.shields.io/badge/Audacity-428DC3?style=flat&logo=audacity&labelColor=A6B4BD)
+![OBS_Studio Badge](https://img.shields.io/badge/OBS_Studio-white?style=flat&logo=obs-studio&labelColor=534CEA)
+![kdenlive Badge](https://img.shields.io/badge/kdenlive-428DC3?style=flat&logo=kdenlive&labelColor=white)
 ![YouTube_Studio Badge](https://img.shields.io/badge/YouTube_Studio-white?style=flat&logo=youtube-studio&labelColor=FF0000)
 <!-- END Video -->
 
