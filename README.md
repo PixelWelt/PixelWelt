@@ -116,7 +116,7 @@ Current employer: Schott AG
 ![Google_Slides Badge](https://img.shields.io/badge/Google_Slides-A6B4BD?style=flat&logo=google-slides&labelColor=white)
 ![Google_Drive Badge](https://img.shields.io/badge/Google_Drive-4285F4?style=flat&logo=google-drive&labelColor=A6B4BD)
 ![Diagrams.net Badge](https://img.shields.io/badge/Diagrams.net-A6B4BD?style=flat&logo=diagramsdotnet&labelColor=white)
-![Prezi Badge](https://img.shields.io/badge/Prezi-4285F4?style=flat&logo=prezi&labelColor=whit)
+![Prezi Badge](https://img.shields.io/badge/Prezi-4285F4?style=flat&logo=prezi&labelColor=white)
 ![Miro Badge](https://img.shields.io/badge/Miro-A6B4BD?style=flat&logo=miro&labelColor=333D4E)
 ![Jira Badge](https://img.shields.io/badge/Jira-A6B4BD?style=flat&logo=jira&labelColor=0052CC)
 ![Nextcloud Badge](https://img.shields.io/badge/Nextcloud-A6B4BD?style=flat&logo=nextcloud&labelColor=0082C9)
