@@ -50,6 +50,9 @@ Current employer: Schott AG
 
 **Prototyping**
 <!-- Prototyping -->
+![arduino Badge](https://img.shields.io/badge/arduino-white?style=flat&logo=arduino&labelColor=00979D)
+![Raspberry__Pi Badge](https://img.shields.io/badge/Raspberry__Pi-white?style=flat&logo=raspberry-pi&labelColor=A22846)
+![TinkerCAD Badge](https://img.shields.io/badge/TinkerCAD-white?style=flat&logo=tinkercad&labelColor=00979D)
 <!-- END Prototyping -->
 
 **Web**
