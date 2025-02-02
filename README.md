@@ -59,10 +59,10 @@ Current employer: Schott AG
 <!-- Web -->
 ![Flask Badge](https://img.shields.io/badge/Flask-A6B4BD?style=flat&logo=flask&labelColor=000000)
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-A6B4BD?style=flat&logo=html5&labelColor=white)
-![CSS3 Badge](https://img.shields.io/badge/CSS3-428DC3?style=flat&logo=css3&labelColor=white)
+![CSS3 Badge](https://img.shields.io/badge/CSS3-white?style=flat&logo=css3&labelColor=428DC3)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&labelColor=black)
 ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&labelColor=white)
-![WordPress Badge](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&labelColor=white)
+![WordPress Badge](https://img.shields.io/badge/WordPress-white?style=flat&logo=wordpress&labelColor=21759B)
 ![MYSQL Badge](https://img.shields.io/badge/MYSQL-4479A1?style=flat&logo=mysql&labelColor=white)
 <!-- END Web -->
 
@@ -71,13 +71,13 @@ Current employer: Schott AG
 ![AudaCity Badge](https://img.shields.io/badge/AudaCity-428DC3?style=flat&logo=audacity&labelColor=428DC3)
 ![OBS_Studio Badge](https://img.shields.io/badge/OBS_Studio-534CEA?style=flat&logo=obs-studio&labelColor=white)
 ![kdenlive Badge](https://img.shields.io/badge/kdenlive-428DC3?style=flat&logo=kdenlive&labelColor=428DC3)
-![YouTube_Studio Badge](https://img.shields.io/badge/YouTube_Studio-FF0000?style=flat&logo=youtube-studi&labelColor=white)
+![YouTube_Studio Badge](https://img.shields.io/badge/YouTube_Studio-white?style=flat&logo=youtube-studio&labelColor=FF0000)
 <!-- END Video -->
 
 **Virtualization**
 <!-- Virtualization -->
 ![docker Badge](https://img.shields.io/badge/docker-428DC3?style=flat&logo=docker&labelColor=white)
-![docker-compose Badge](https://img.shields.io/badge/docker-compose-428DC3?style=flat&logo=docker&labelColor=white)
+![docker--compose Badge](https://img.shields.io/badge/docker--compose-428DC3?style=flat&logo=docker&labelColor=white)
 ![Portainer Badge](https://img.shields.io/badge/Portainer-428DC3?style=flat&logo=portainer&labelColor=white)
 ![Proxmox Badge](https://img.shields.io/badge/Proxmox-428DC3?style=flat&logo=proxmox&labelColor=white)
 <!-- END Virtualization -->
@@ -92,7 +92,7 @@ Current employer: Schott AG
 **OS**
 <!-- OS -->
 ![Windows Badge](https://img.shields.io/badge/Windows-A6B4BD?style=flat&logo=windows&labelColor=0078D7)
-![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-A6B4BD?style=flat&logo=ubuntu&labelColor=E95420)
+![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&labelColor=A6B4BD)
 ![Pop__OS! Badge](https://img.shields.io/badge/Pop__OS!-A6B4BD?style=flat&logo=pop-os&labelColor=48B9C7)
 ![ChromeOS Badge](https://img.shields.io/badge/ChromeOS-A6B4BD?style=flat&logo=chromeos&labelColor=4285F4)
 ![Debian Badge](https://img.shields.io/badge/Debian-A6B4BD?style=flat&logo=debian&labelColor=A80030)
@@ -109,17 +109,17 @@ Current employer: Schott AG
 
 **Office and Project Managment**
 <!-- Management -->
-![Click_Up Badge](https://img.shields.io/badge/Click_Up-A6B4BD?style=flat&logo=click-up&labelColor=7D4DD2)
+![Click_Up Badge](https://img.shields.io/badge/Click_Up-7D4DD2?style=flat&logo=clickup&labelColor=A6B4BD)
 ![Trello Badge](https://img.shields.io/badge/Trello-A6B4BD?style=flat&logo=trello&labelColor=0079BF)
-![Google_Docs Badge](https://img.shields.io/badge/Google_Docs-A6B4BD?style=flat&logo=google-docs&labelColor=4285F4)
-![Google_Sheets Badge](https://img.shields.io/badge/Google_Sheets-A6B4BD?style=flat&logo=google-sheets&labelColor=34A853)
+![Google_Docs Badge](https://img.shields.io/badge/Google_Docs-4285F4?style=flat&logo=google-docs&labelColor=A6B4BD)
+![Google_Sheets Badge](https://img.shields.io/badge/Google_Sheets-34A853?style=flat&logo=google-sheets&labelColor=A6B4BD)
 ![Google_Slides Badge](https://img.shields.io/badge/Google_Slides-A6B4BD?style=flat&logo=google-slides&labelColor=EA4335)
-![Google_Drive Badge](https://img.shields.io/badge/Google_Drive-A6B4BD?style=flat&logo=google-drive&labelColor=4285F4)
-![Diagrams.net Badge](https://img.shields.io/badge/Diagrams.net-A6B4BD?style=flat&logo=diagrams-net&labelColor=0079BF)
-![Prezi Badge](https://img.shields.io/badge/Prezi-A6B4BD?style=flat&logo=prezi&labelColor=4285F4)
+![Google_Drive Badge](https://img.shields.io/badge/Google_Drive-4285F4?style=flat&logo=google-drive&labelColor=A6B4BD)
+![Diagrams.net Badge](https://img.shields.io/badge/Diagrams.net-A6B4BD?style=flat&logo=diagramsdotnet&labelColor=0079BF)
+![Prezi Badge](https://img.shields.io/badge/Prezi-4285F4?style=flat&logo=prezi&labelColor=A6B4BD)
 ![Miro Badge](https://img.shields.io/badge/Miro-A6B4BD?style=flat&logo=miro&labelColor=333D4E)
 ![Jira Badge](https://img.shields.io/badge/Jira-A6B4BD?style=flat&logo=jira&labelColor=0052CC)
 ![Nextcloud Badge](https://img.shields.io/badge/Nextcloud-A6B4BD?style=flat&logo=nextcloud&labelColor=0082C9)
-![git Badge](https://img.shields.io/badge/git-A6B4BD?style=flat&logo=git&labelColor=F05032)
+![git Badge](https://img.shields.io/badge/git-F05032?style=flat&logo=git&labelColor=A6B4BD)
 <!-- END Management -->
 
