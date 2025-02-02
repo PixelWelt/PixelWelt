@@ -1,10 +1,10 @@
 name,color,label_color,logo_slug
 Click_Up,7D4DD2,A6B4BD,clickup
 Trello,A6B4BD,0079BF,trello
-Google_Docs,4285F4,A6B4BD,google-docs
-Google_Sheets,34A853,A6B4BD,google-sheets
+Google_Docs,4285F4,white,google-docs
+Google_Sheets,34A853,white,google-sheets
 Google_Slides,A6B4BD,white,google-slides
-Google_Drive,4285F4,A6B4BD,google-drive
+Google_Drive,4285F4,white,google-drive
 Diagrams.net,A6B4BD,white,diagramsdotnet
 Prezi,4285F4,white,prezi
 Miro,A6B4BD,333D4E,miro
