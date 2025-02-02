@@ -89,12 +89,6 @@ Current employer: Schott AG
 ![visual_studio Badge](https://img.shields.io/badge/visual_studio-A6B4BD?style=flat&logo=visual-studio&labelColor=5C2D91)
 <!-- END IDE -->
 
-**Game Development**
-<!-- Game -->
-![Unity Badge](https://img.shields.io/badge/Unity-A6B4BD?style=flat&logo=unity&labelColor=000000)
-![C# Badge](https://img.shields.io/badge/C#-A6B4BD?style=flat&logo=c-sharp&labelColor=239120)
-<!-- END IDE -->
-
 **OS**
 <!-- OS -->
 ![Windows Badge](https://img.shields.io/badge/Windows-A6B4BD?style=flat&logo=windows&labelColor=0078D7)
