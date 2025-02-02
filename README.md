@@ -111,10 +111,10 @@ Current employer: Schott AG
 <!-- Management -->
 ![Click_Up Badge](https://img.shields.io/badge/Click_Up-7D4DD2?style=flat&logo=clickup&labelColor=A6B4BD)
 ![Trello Badge](https://img.shields.io/badge/Trello-A6B4BD?style=flat&logo=trello&labelColor=0079BF)
-![Google_Docs Badge](https://img.shields.io/badge/Google_Docs-4285F4?style=flat&logo=google-docs&labelColor=A6B4BD)
-![Google_Sheets Badge](https://img.shields.io/badge/Google_Sheets-34A853?style=flat&logo=google-sheets&labelColor=A6B4BD)
+![Google_Docs Badge](https://img.shields.io/badge/Google_Docs-4285F4?style=flat&logo=google-docs&labelColor=white)
+![Google_Sheets Badge](https://img.shields.io/badge/Google_Sheets-34A853?style=flat&logo=google-sheets&labelColor=white)
 ![Google_Slides Badge](https://img.shields.io/badge/Google_Slides-A6B4BD?style=flat&logo=google-slides&labelColor=white)
-![Google_Drive Badge](https://img.shields.io/badge/Google_Drive-4285F4?style=flat&logo=google-drive&labelColor=A6B4BD)
+![Google_Drive Badge](https://img.shields.io/badge/Google_Drive-4285F4?style=flat&logo=google-drive&labelColor=white)
 ![Diagrams.net Badge](https://img.shields.io/badge/Diagrams.net-A6B4BD?style=flat&logo=diagramsdotnet&labelColor=white)
 ![Prezi Badge](https://img.shields.io/badge/Prezi-4285F4?style=flat&logo=prezi&labelColor=white)
 ![Miro Badge](https://img.shields.io/badge/Miro-A6B4BD?style=flat&logo=miro&labelColor=333D4E)
