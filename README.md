@@ -70,7 +70,7 @@ Current employer: Schott AG
 <!-- Video -->
 ![AudaCity Badge](https://img.shields.io/badge/AudaCity-428DC3?style=flat&logo=audacity&labelColor=428DC3)
 ![OBS_Studio Badge](https://img.shields.io/badge/OBS_Studio-534CEA?style=flat&logo=obs-studio&labelColor=white)
-![kdenlive Badge](https://img.shields.io/badge/kdenlive-428DC3?style=flat&logo=kdenlive&labelColor=428DC3)
+![kdenlive Badge](https://img.shields.io/badge/kdenlive-white?style=flat&logo=kdenlive&labelColor=428DC3)
 ![YouTube_Studio Badge](https://img.shields.io/badge/YouTube_Studio-white?style=flat&logo=youtube-studio&labelColor=FF0000)
 <!-- END Video -->
 
@@ -113,10 +113,10 @@ Current employer: Schott AG
 ![Trello Badge](https://img.shields.io/badge/Trello-A6B4BD?style=flat&logo=trello&labelColor=0079BF)
 ![Google_Docs Badge](https://img.shields.io/badge/Google_Docs-4285F4?style=flat&logo=google-docs&labelColor=A6B4BD)
 ![Google_Sheets Badge](https://img.shields.io/badge/Google_Sheets-34A853?style=flat&logo=google-sheets&labelColor=A6B4BD)
-![Google_Slides Badge](https://img.shields.io/badge/Google_Slides-A6B4BD?style=flat&logo=google-slides&labelColor=EA4335)
+![Google_Slides Badge](https://img.shields.io/badge/Google_Slides-A6B4BD?style=flat&logo=google-slides&labelColor=white)
 ![Google_Drive Badge](https://img.shields.io/badge/Google_Drive-4285F4?style=flat&logo=google-drive&labelColor=A6B4BD)
-![Diagrams.net Badge](https://img.shields.io/badge/Diagrams.net-A6B4BD?style=flat&logo=diagramsdotnet&labelColor=0079BF)
-![Prezi Badge](https://img.shields.io/badge/Prezi-4285F4?style=flat&logo=prezi&labelColor=A6B4BD)
+![Diagrams.net Badge](https://img.shields.io/badge/Diagrams.net-A6B4BD?style=flat&logo=diagramsdotnet&labelColor=white)
+![Prezi Badge](https://img.shields.io/badge/Prezi-4285F4?style=flat&logo=prezi&labelColor=whit)
 ![Miro Badge](https://img.shields.io/badge/Miro-A6B4BD?style=flat&logo=miro&labelColor=333D4E)
 ![Jira Badge](https://img.shields.io/badge/Jira-A6B4BD?style=flat&logo=jira&labelColor=0052CC)
 ![Nextcloud Badge](https://img.shields.io/badge/Nextcloud-A6B4BD?style=flat&logo=nextcloud&labelColor=0082C9)
