@@ -12,6 +12,8 @@ jobs:
     steps:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
-        with:       
+        with:
           CREDLY_USER: soeren-herrmann
           BADGE_SIZE: 100
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          NUMBER_LAST_BADGES: 0 
