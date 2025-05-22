@@ -15,10 +15,6 @@ jobs:
     call-certifications:
         needs: call-credly
         uses: ./.github/workflows/certifications.yml
-        secrets:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
     call-design-tools:
         needs: call-certifications
         uses: ./.github/workflows/tools.yml
-        secrets:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
