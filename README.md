@@ -17,7 +17,6 @@ Current employer: Schott AG
 [![Introduction to Data Science](https://images.credly.com/size/100x100/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png)](http://www.credly.com/badges/98261e93-6ea9-4809-a512-f01397ea34a2 "Introduction to Data Science")
 [![AWS Educate Getting Started with Storage](https://images.credly.com/size/100x100/images/5bf37709-4b69-4cdc-9edc-af7b3370d427/image.png)](http://www.credly.com/badges/375dd2e2-46bb-48fa-80c7-fdd7a6264354 "AWS Educate Getting Started with Storage")
 [![AWS Cloud Quest: Cloud Practitioner](https://images.credly.com/size/100x100/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png)](http://www.credly.com/badges/ca273339-0185-4726-8f6d-0138a16b7991 "AWS Cloud Quest: Cloud Practitioner")
-[![Building AI-Powered Search with MongoDB Vector Search](https://images.credly.com/size/100x100/images/730e9c82-7869-4288-b580-9f8500a94465/image.png)](https://www.credly.com/badges/6a0dba74-ccb8-48eb-980d-c01aca628f82)
 <!--END_SECTION:badges-->
 **Certifications**
 <!-- CERTIFICATIONS -->
