@@ -2,6 +2,9 @@ name: Update Credly badges
 
 on:
   workflow_call:
+    secrets:
+      GH_TOKEN:
+        required: true
     
 jobs:
   update-readme:
