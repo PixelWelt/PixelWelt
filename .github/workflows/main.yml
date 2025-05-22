@@ -10,6 +10,8 @@ on:
 jobs:
     call-credly:
         uses: ./.github/workflows/badges.yml
+        secrets:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
     call-certifications:
         needs: call-credly
         uses: ./.github/workflows/certifications.yml
@@ -18,3 +20,5 @@ jobs:
     call-design-tools:
         needs: call-certifications
         uses: ./.github/workflows/tools.yml
+        secrets:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
