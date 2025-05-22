@@ -8,12 +8,13 @@ on:
             - main
     workflow_dispatch:
 jobs:
-    uses: PixelWelt/PixelWelt/.github/workflows/badges.yml@main
     call-credly:
         uses: ./.github/workflows/badges.yml
     call-certifications:
         needs: call-credly
         uses: ./.github/workflows/certifications.yml
+        secrets:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
     call-design-tools:
         needs: call-certifications
         uses: ./.github/workflows/tools.yml
