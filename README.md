@@ -11,6 +11,7 @@ Current employer: Schott AG
 
 ## Tools I use and Certifications
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/5e073490-73e2-43c4-9410-d956510c5dcd" title="IBM Z Xplore - Concepts"><img src="https://images.credly.com/size/80x80/images/0f3e4162-ab6b-457c-8c0d-835a14680666/image.png" alt="IBM Z Xplore - Concepts" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/4c9b6c3f-fa9c-4f60-833f-d30d942c37fe" title="MongoDB Basics for Students"><img src="https://images.credly.com/size/80x80/images/08974f21-b24f-4a0e-be9d-4ae904907259/blob" alt="MongoDB Basics for Students" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/6a0dba74-ccb8-48eb-980d-c01aca628f82" title="Building AI-Powered Search with MongoDB Vector Search"><img src="https://images.credly.com/size/80x80/images/730e9c82-7869-4288-b580-9f8500a94465/blob" alt="Building AI-Powered Search with MongoDB Vector Search" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/0723ccd0-bd57-402f-bcdf-fc9f8fccd5c8" title="AWS Educate Getting Started with Databases - Training Badge"><img src="https://images.credly.com/size/80x80/images/a08cf90b-9838-4f6c-82bd-8db85fb89dd5/blob" alt="AWS Educate Getting Started with Databases - Training Badge" width="80" height="80"></a>
