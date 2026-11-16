@@ -4,17 +4,19 @@ Current employer: Schott AG
 
 ## Tools I use and Certifications
 <!--START_SECTION:badges-->
-[![IBM Z Xplore - All Star](https://images.credly.com/size/80x80/images/cf76c04a-d15b-4ca8-8207-7b3269222877/IBM_20Z_20Xplore_20All_20Star.png)](https://www.credly.com/badges/dd20930b-fd35-49b4-8739-e69835b86b19)
-[![IBM Z Xplore - Advanced](https://images.credly.com/size/80x80/images/9dde9b48-6cec-4bc4-ab33-ffeac5c681c3/image.png)](https://www.credly.com/badges/e565a1cc-3297-4f51-97da-6818280a1f8a)
-[![IBM Z Xplore - Concepts](https://images.credly.com/size/80x80/images/0f3e4162-ab6b-457c-8c0d-835a14680666/image.png)](https://www.credly.com/badges/5e073490-73e2-43c4-9410-d956510c5dcd)
-[![MongoDB Basics for Students](https://images.credly.com/size/80x80/images/08974f21-b24f-4a0e-be9d-4ae904907259/blob)](https://www.credly.com/badges/4c9b6c3f-fa9c-4f60-833f-d30d942c37fe)
-[![Building AI-Powered Search with MongoDB Vector Search](https://images.credly.com/size/80x80/images/730e9c82-7869-4288-b580-9f8500a94465/blob)](https://www.credly.com/badges/6a0dba74-ccb8-48eb-980d-c01aca628f82)
-[![AWS Educate Getting Started with Databases - Training Badge](https://images.credly.com/size/80x80/images/a08cf90b-9838-4f6c-82bd-8db85fb89dd5/blob)](https://www.credly.com/badges/0723ccd0-bd57-402f-bcdf-fc9f8fccd5c8)
-[![Network Defense](https://images.credly.com/size/80x80/images/51526f76-711b-4caf-b04d-27f89512b112/NetworkDefense_v1_091721.png)](https://www.credly.com/badges/ed7e25a1-f7eb-47f7-a1b1-cd8d4b9d78e0)
-[![Computer Hardware Basics](https://images.credly.com/size/80x80/images/19e742ef-13be-4d26-87ed-ac8f5fd0643c/image.png)](https://www.credly.com/badges/3ffe6c81-6811-4a64-acef-2d8a7cfc6553)
-[![Introduction to Data Science](https://images.credly.com/size/80x80/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png)](https://www.credly.com/badges/98261e93-6ea9-4809-a512-f01397ea34a2)
-[![AWS Educate Getting Started with Storage - Training Badge](https://images.credly.com/size/80x80/images/3b1b42e6-dfc2-492b-90df-8058096cb93d/blob)](https://www.credly.com/badges/375dd2e2-46bb-48fa-80c7-fdd7a6264354)
-[![AWS Cloud Quest: Cloud Practitioner - Training Badge](https://images.credly.com/size/80x80/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob)](https://www.credly.com/badges/ca273339-0185-4726-8f6d-0138a16b7991)
+<p>
+  <a href="https://www.credly.com/badges/e565a1cc-3297-4f51-97da-6818280a1f8a"><img src="https://images.credly.com/size/80x80/images/9dde9b48-6cec-4bc4-ab33-ffeac5c681c3/image.png" alt="IBM Z Xplore - Advanced" width="50" /></a>
+  <a href="https://www.credly.com/badges/5e073490-73e2-43c4-9410-d956510c5dcd"><img src="https://images.credly.com/size/80x80/images/0f3e4162-ab6b-457c-8c0d-835a14680666/image.png" alt="IBM Z Xplore - Concepts" width="50" /></a>
+  <a href="https://www.credly.com/badges/4c9b6c3f-fa9c-4f60-833f-d30d942c37fe"><img src="https://images.credly.com/size/80x80/images/08974f21-b24f-4a0e-be9d-4ae904907259/blob" alt="MongoDB Basics for Students" width="50" /></a>
+  <a href="https://www.credly.com/badges/6a0dba74-ccb8-48eb-980d-c01aca628f82"><img src="https://images.credly.com/size/80x80/images/730e9c82-7869-4288-b580-9f8500a94465/blob" alt="Building AI-Powered Search with MongoDB Vector Search" width="50" /></a>
+  <a href="https://www.credly.com/badges/0723ccd0-bd57-402f-bcdf-fc9f8fccd5c8"><img src="https://images.credly.com/size/80x80/images/a08cf90b-9838-4f6c-82bd-8db85fb89dd5/blob" alt="AWS Educate Getting Started with Databases" width="50" /></a>
+  <a href="https://www.credly.com/badges/ed7e25a1-f7eb-47f7-a1b1-cd8d4b9d78e0"><img src="https://images.credly.com/size/80x80/images/51526f76-711b-4caf-b04d-27f89512b112/NetworkDefense_v1_091721.png" alt="Network Defense" width="50" /></a>
+  <a href="https://www.credly.com/badges/3ffe6c81-6811-4a64-acef-2d8a7cfc6553"><img src="https://images.credly.com/size/80x80/images/19e742ef-13be-4d26-87ed-ac8f5fd0643c/image.png" alt="Computer Hardware Basics" width="50" /></a>
+  <a href="https://www.credly.com/badges/98261e93-6ea9-4809-a512-f01397ea34a2"><img src="https://images.credly.com/size/80x80/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png" alt="Introduction to Data Science" width="50" /></a>
+  <a href="https://www.credly.com/badges/375dd2e2-46bb-48fa-80c7-fdd7a6264354"><img src="https://images.credly.com/size/80x80/images/3b1b42e6-dfc2-492b-90df-8058096cb93d/blob" alt="AWS Educate Getting Started with Storage" width="50" /></a>
+  <a href="https://www.credly.com/badges/ca273339-0185-4726-8f6d-0138a16b7991"><img src="https://images.credly.com/size/80x80/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob" alt="AWS Cloud Quest: Cloud Practitioner" width="50" /></a>
+</p>
+
 <!--END_SECTION:badges-->
 **Certifications**
 <!-- CERTIFICATIONS -->
